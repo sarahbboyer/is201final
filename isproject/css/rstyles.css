@@ -1,0 +1,39 @@
+h1{
+    color:darkcyan;
+}
+
+
+
+a{
+    margin: 0;
+    padding: 0;
+    color: blue;
+}
+p{
+    color:rgb(20, 95, 95);
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-image: url(https://i.pinimg.com/originals/fe/5f/67/fe5f677b1627009c4b3e1c1c31dedf71.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.right{
+    position: fixed;
+    top: 0px;
+    left: 20px;
+    width: 300px;
+    bottom: 0px;
+}
+.content{
+    position: absolute;
+    top: 30px;
+    left: 200px;
+    width: 500px;
+    bottom: 70px;
+}
+li{
+    color:rgb(70, 69, 69);
+}
+
